@@ -1,0 +1,26 @@
+.wrapper {
+  padding-bottom: 100px;
+
+  mat-form-field {
+    width: 100%;
+  }
+
+  .action-buttons .mat-button-base {
+    margin: 8px 8px 8px 0;
+  }
+  .file {
+    padding-top: 5px;
+  }
+
+  .file-success {
+    color: green;
+  }
+
+  .file-progress {
+    color: blue;
+  }
+
+  table {
+    width: 100%;
+  }
+}
